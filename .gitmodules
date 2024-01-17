@@ -1,0 +1,12 @@
+[submodule "mbart-large-cc25-ft-amr30-en_es_nl"]
+	path = mbart-large-cc25-ft-amr30-en_es_nl
+	url = https://huggingface.co/BramVanroy/mbart-large-cc25-ft-amr30-en_es_nl
+[submodule "mbart-large-cc25-ft-amr30-es"]
+	path = mbart-large-cc25-ft-amr30-es
+	url = https://huggingface.co/BramVanroy/mbart-large-cc25-ft-amr30-es
+[submodule "mbart-large-cc25-ft-amr30-en"]
+	path = mbart-large-cc25-ft-amr30-en
+	url = https://huggingface.co/BramVanroy/mbart-large-cc25-ft-amr30-en
+[submodule "mbart-large-cc25-ft-amr30-nl"]
+	path = mbart-large-cc25-ft-amr30-nl
+	url = https://huggingface.co/BramVanroy/mbart-large-cc25-ft-amr30-nl
